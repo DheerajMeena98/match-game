@@ -1,0 +1,29 @@
+.trophy-image {
+  width: 150px;
+}
+
+.win-lose-card-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  width: 60%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  background-size: cover;
+  padding: 10px;
+}
+
+.match-game-results-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-again-button {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
